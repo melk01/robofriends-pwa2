@@ -7,9 +7,9 @@
   "background_color": "#ffffff",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64",
-      "type": "image/x-icon"
+      "src": "favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
     },
     {
       "src": "android-chrome-192x192.png",
@@ -23,3 +23,4 @@
     }
   ]
 }
+
