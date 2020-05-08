@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://melk.github.io/robofriends-pwa",
+  "homepage": "https://melk01.github.io/robofriends-pwa",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.13.1",
